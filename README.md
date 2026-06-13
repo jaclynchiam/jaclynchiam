@@ -13,8 +13,8 @@ I'm Jaclyn Chiam, a Computer Science student at Sunway University.
 ## 📫 Contact Me
 📧 Email: chiamjiezu@gmail.com  
 💼 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/jaclyn-chiam-ba0501246)  
-📊🥷 LeetCode Profile : [My LeetCode](https://leetcode.com/u/jaclynchiam/)  
 🌐 Website: Portfolio (Coming Soon...) 🚀
+<!--📊🥷 LeetCode Profile : [My LeetCode](https://leetcode.com/u/jaclynchiam/)-->  
 
 ***
 # 💻 Tech Stack:
